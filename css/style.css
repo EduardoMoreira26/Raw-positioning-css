@@ -1,0 +1,27 @@
+/* RESET FORMATAÇÂO HTML */
+
+body,
+h1,
+h2,
+h3,
+p,
+ul {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #252525;
+}
+
+/* MENU */
+
+.menu {
+  background: #252525;
+  padding: 20px 0;
+}
+
+.menu-container {
+  max-width: 960px;
+}
